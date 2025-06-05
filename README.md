@@ -116,7 +116,7 @@ The app will launch at `http://localhost:8501` in your browser.
 
 **Tanishq Kolhatkar**  
 📧 tanishqkolhatkar93@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/) (Add your link!)
+🌐 [LinkedIn](https://www.linkedin.com/in/tanishq93/) 
 
 ---
 
