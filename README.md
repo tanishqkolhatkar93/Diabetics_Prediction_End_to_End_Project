@@ -96,7 +96,8 @@ The app will launch at `http://localhost:8501` in your browser.
 
 ## 📷 App Preview
 
-> ✨ [Insert a screenshot here if you have one]
+> ✨![Uploading Screenshot 2025-06-05 212454.png…]()
+
 
 ---
 
